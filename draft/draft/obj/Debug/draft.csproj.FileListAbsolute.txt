@@ -1,0 +1,11 @@
+D:\LearnCSharp\BTH3\draft\draft\bin\Debug\draft.exe.config
+D:\LearnCSharp\BTH3\draft\draft\bin\Debug\draft.exe
+D:\LearnCSharp\BTH3\draft\draft\bin\Debug\draft.pdb
+D:\LearnCSharp\BTH3\draft\draft\obj\Debug\draft.csproj.AssemblyReference.cache
+D:\LearnCSharp\BTH3\draft\draft\obj\Debug\draft.csproj.SuggestedBindingRedirects.cache
+D:\LearnCSharp\BTH3\draft\draft\obj\Debug\draft.Form1.resources
+D:\LearnCSharp\BTH3\draft\draft\obj\Debug\draft.Properties.Resources.resources
+D:\LearnCSharp\BTH3\draft\draft\obj\Debug\draft.csproj.GenerateResource.cache
+D:\LearnCSharp\BTH3\draft\draft\obj\Debug\draft.csproj.CoreCompileInputs.cache
+D:\LearnCSharp\BTH3\draft\draft\obj\Debug\draft.exe
+D:\LearnCSharp\BTH3\draft\draft\obj\Debug\draft.pdb

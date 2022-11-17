@@ -1,0 +1,11 @@
+D:\LearnCSharp\BTH3\Bai9\Bai9\bin\Debug\Bai9.exe.config
+D:\LearnCSharp\BTH3\Bai9\Bai9\bin\Debug\Bai9.exe
+D:\LearnCSharp\BTH3\Bai9\Bai9\bin\Debug\Bai9.pdb
+D:\LearnCSharp\BTH3\Bai9\Bai9\obj\Debug\Bai9.csproj.AssemblyReference.cache
+D:\LearnCSharp\BTH3\Bai9\Bai9\obj\Debug\Bai9.csproj.SuggestedBindingRedirects.cache
+D:\LearnCSharp\BTH3\Bai9\Bai9\obj\Debug\Bai9.Properties.Resources.resources
+D:\LearnCSharp\BTH3\Bai9\Bai9\obj\Debug\Bai9.csproj.GenerateResource.cache
+D:\LearnCSharp\BTH3\Bai9\Bai9\obj\Debug\Bai9.csproj.CoreCompileInputs.cache
+D:\LearnCSharp\BTH3\Bai9\Bai9\obj\Debug\Bai9.exe
+D:\LearnCSharp\BTH3\Bai9\Bai9\obj\Debug\Bai9.pdb
+D:\LearnCSharp\BTH3\Bai9\Bai9\obj\Debug\Bai9.Form1.resources
